@@ -15,7 +15,7 @@ Ce projet est conçu pour démontrer les compétences en **support Microsoft 365
 ---
 
 # 📂 Structure du dépôt
-
+```text
 outlook-troubleshooting-cases/
   │
   ├── README.md
