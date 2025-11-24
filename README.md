@@ -17,20 +17,20 @@ Ce projet est conçu pour démontrer les compétences en **support Microsoft 365
 # 📂 Structure du dépôt
 
 outlook-troubleshooting-cases/
-│
-├── README.md
-│
-└── cases/
-├── case01_outlook_wont_open.md
-├── case02_search_not_working.md
-├── case03_password_prompt_loop.md
-├── case04_cannot_add_mailbox.md
-├── case05_ost_corrupted.md
-├── case06_slow_outlook.md
-├── case07_signature_not_sync.md
-├── case08_calendar_not_updating.md
-├── case09_profile_corrupted.md
-└── case10_send_receive_error.md
+  │
+  ├── README.md
+  │
+  └── cases/
+  ├── case01_outlook_wont_open.md
+  ├── case02_search_not_working.md
+  ├── case03_password_prompt_loop.md
+  ├── case04_cannot_add_mailbox.md
+  ├── case05_ost_corrupted.md
+  ├── case06_slow_outlook.md
+  ├── case07_signature_not_sync.md
+  ├── case08_calendar_not_updating.md
+  ├── case09_profile_corrupted.md
+  └── case10_send_receive_error.md
 
 ---
 
