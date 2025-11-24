@@ -15,7 +15,7 @@ Ce projet est conçu pour démontrer les compétences en **support Microsoft 365
 ---
 
 # 📂 Structure du dépôt
-```text
+```
 outlook-troubleshooting-cases/
   │
   ├── README.md
@@ -31,7 +31,7 @@ outlook-troubleshooting-cases/
   ├── case08_calendar_not_updating.md
   ├── case09_profile_corrupted.md
   └── case10_send_receive_error.md
-
+```
 ---
 
 # 🎯 Objectifs du projet
